@@ -1,0 +1,7 @@
+@url_dev=http://localhost:3058/api/v1
+
+### login
+
+POST {{url_dev}}/logout
+Content-Type: application/json
+
